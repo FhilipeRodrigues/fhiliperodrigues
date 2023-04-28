@@ -6,7 +6,6 @@
 
 ![Fhilipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FhilipeRodrigues&show_icons=true&theme=tokyonight)
 
-### Tecnologias
 
 <div style="display: incline_block"> <br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,7 +15,7 @@
 </div>
 <div style="display: incline_block"> <br/>
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-<div style="display: incline_block"> <br/>
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</div>
+</div> <br>
+Aprendendo e buscando evoluir todos os dias!
+
+![Snake animation](https://github.com/FhilipeRodrigues/FhilipeRodrigues/blob/output/github-contribution-grid-snake.svg)
