@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04DE18&size=35&center=true&vCenter=true&width=1000&lines=Opa!+Tranquilo?+Me+chamo+Fhilipe+(ou+Ferrugem)+;Tenho+20+anos;Brasileiro+;Estudando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04DE18&size=35&center=true&vCenter=true&width=1000&lines=Opa!+Tranquilo?+Me+chamo+Fhilipe;Tenho+20+anos;Brasileiro+;Estudando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fhilipe-rodrigues-a0795024a/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562984959107)
